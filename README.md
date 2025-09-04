@@ -29,4 +29,4 @@ A clean and responsive scroll-triggered animation project where elements **slide
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/scroll-slidein-gsap.git
+     https://github.com/Ebikemeese/Scoll-Triggered-Animation.git
